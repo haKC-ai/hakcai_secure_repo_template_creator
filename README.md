@@ -1,3 +1,6 @@
+
+![hakcAI_logo](https://github.com/user-attachments/assets/d8bed95c-98c5-4356-843b-c4e936fe8d9f)
+
 ```                                                                                                   
                  ██████████                                                                        
                 █▓       ░██                                                                       
